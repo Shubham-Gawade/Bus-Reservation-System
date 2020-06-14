@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	background-color: yellow;
+}
+#id1
+{
+	background-color: red;
+}
+#id2
+{
+	text-align: center;
+}
+#id3
+{
+	text-align: center;
+	font-size: 24px;
+}
